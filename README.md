@@ -53,4 +53,5 @@ For details, please refer to the `sft` directory.
 
 We use [OpenCompass](https://github.com/open-compass/opencompass) to evaluate fine-tuned models.
 
-For details, please refer to the `sft` directory.
+
+For details, please refer to the `opencompass` directory.
